@@ -1,0 +1,38 @@
+#weather-container{
+    height: 100px;
+}
+
+#main-container{
+    background-image: url('https://thumbs.dreamstime.com/b/portrait-group-young-people-laughing-together-outside-101942499.jpg');
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+}
+
+#joketext-container{
+    height: 300px;
+    width: 60%;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(162, 162, 162);
+}
+
+#btn-joke{
+    width: 200px;
+    color: white;
+}
+
+#p-joke{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#btn-score{
+    margin-bottom: 20px;
+}
+
+#space-temp{
+    margin-left: 10px;
+    margin-right: 5px;
+}
